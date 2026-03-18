@@ -11,12 +11,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbedAshou?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-ashour-878350222/)
-
+- 🎯 &nbsp; I specialize in **HTML**, **CSS**, **React** and **Next.js** and **Laravel**
+- 🌱 &nbsp; I'm constantly learning and improving my skills in Frontend Development
+- 💡 &nbsp; I love building clean and responsive web interfaces
+- 🚀 &nbsp; Passionate about creating modern and fast web applications
 <br>
 
 ### 🔨 Languages and Tools:
@@ -27,16 +29,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/next-js/next-js.svg"></a>
+
 
 <br>
 
 
-### 📊 Github Stats
   
-![Stats Overview](https://raw.githubusercontent.com/AbedAshou/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/AbedAshou/github-stats-transparent/output/generated/languages.svg)
-</a>
+
 
 <br>
 
-### 🛠️ My Projects
