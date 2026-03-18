@@ -28,11 +28,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://laravel.com/" target="_blank"><img align="left" alt="Laravel" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <a href="https://www.figma.com/" target="_blank"><img alt="Figma" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+<a href="https://laravel.com/" target="_blank"><img align="left" alt="Laravel" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></a>
 
 <br>
 
